@@ -1,0 +1,17 @@
+{
+  "types": {
+    "fix": {},
+    "feat": {},
+    "perf": {},
+    "enh": {},
+    "refactor": {},
+    "style": {},
+    "revert": {},
+    "ci": {},
+    "eng": {},
+    "docs": {},
+    "chore": {},
+    "tests": {},
+    "review": {}
+  }
+}
